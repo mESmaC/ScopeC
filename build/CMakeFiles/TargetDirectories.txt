@@ -1,0 +1,3 @@
+/home/mesmac/Documents/GitHub/ScopeC/build/CMakeFiles/ScopeC.dir
+/home/mesmac/Documents/GitHub/ScopeC/build/CMakeFiles/edit_cache.dir
+/home/mesmac/Documents/GitHub/ScopeC/build/CMakeFiles/rebuild_cache.dir
